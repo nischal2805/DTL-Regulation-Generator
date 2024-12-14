@@ -16,5 +16,5 @@ A Streamlit application with a SQLite backend to manage user data and responses.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/final_app.git
+   git clone https://github.com/nischal2805/DTL-Regulation-Generator.git
 
